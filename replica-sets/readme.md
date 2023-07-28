@@ -1,1 +1,1 @@
-[Diagram](diagram.png)
+[Diagram diagram.png](diagram.png)

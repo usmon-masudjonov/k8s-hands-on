@@ -1,1 +1,1 @@
-[Diagram](./diagram.png)
+[Diagram](./replica-sets/diagram.png)

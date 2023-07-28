@@ -1,1 +1,1 @@
-[Diagram](./diagram.html)
+[Diagram](./diagram.png)
